@@ -5,7 +5,7 @@ import com.volodymyr_frontend.printer.Printer;
 import com.volodymyr_frontend.tabulation.Tabulation;
 
 public class Main {
-    private static final int N = 4;
+    private static final int N = 10;
 
     public static void main(String[] args) {
         // Task 1
